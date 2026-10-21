@@ -1,4 +1,4 @@
-# Chips, Sanctions and the AI Race
+# Global AI Sovereignty & Hardware Supply Chain: Chips, Sanctions and the AI Race
 
 Personal portfolio project. An Excel Data Model with five linked dashboards on how semiconductor trade, sanctions, energy use and companies connect (2015-2025), plus the Python exploration behind it. Part of the dataset is synthetic.
 
