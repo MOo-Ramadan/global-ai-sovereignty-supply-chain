@@ -61,4 +61,6 @@ Star schema: 6 fact tables (trade, sanctions, AI budgets, energy, macro, compani
 Part of the data is synthetic, all sanctions are marked Active, sanction impact estimates overlap, and the company table is a sample of 22 firms.
 
 ## Author
-[Mohamed Ramadan Elmenshawy], Business Information Systems student. [[LinkedIn link](https://www.kaggle.com/datasets/moaz1911/global-ai-sovereignty-and-hardware-supply-chain/data)]
+[Mohamed Ramadan Elmenshawy], Business Information Systems student. [[LinkedIn link](www.linkedin.com/in/mohamad-ramadanx
+
+)]
