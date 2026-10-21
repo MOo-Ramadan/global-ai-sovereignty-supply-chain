@@ -54,7 +54,7 @@ Revenue, R&D and sanction-flagged firms.
 Star schema: 6 fact tables (trade, sanctions, AI budgets, energy, macro, companies) and 3 dimensions (country, target country, year), joined on country code and year, with about 37 DAX measures.
 
 ## How to use
-1. Open the Excel workbook in Excel for Windows (the Data Model needs the desktop app) and use the year slicers.
+1. Download AI Sovereignty Project.xlsx (the download icon on its file page) and open it in Excel for Windows (the Data Model needs the desktop app) and use the year slicers.
 2. To rerun the analysis: `pip install -r requirements.txt`, download the CSV files from [https://www.kaggle.com/datasets/moaz1911/global-ai-sovereignty-and-hardware-supply-chain/data], and run the notebook.
 
 ## Limitations
