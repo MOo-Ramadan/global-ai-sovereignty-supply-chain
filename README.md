@@ -55,12 +55,10 @@ Star schema: 6 fact tables (trade, sanctions, AI budgets, energy, macro, compani
 
 ## How to use
 1. Download AI Sovereignty Project.xlsx (the download icon on its file page) and open it in Excel for Windows (the Data Model needs the desktop app) and use the year slicers.
-2. To rerun the analysis: `pip install -r requirements.txt`, download the CSV files from [https://www.kaggle.com/datasets/moaz1911/global-ai-sovereignty-and-hardware-supply-chain/data], and run the notebook.
+2. To rerun the analysis: `pip install -r requirements.txt`, download the CSV files from (https://www.kaggle.com/datasets/moaz1911/global-ai-sovereignty-and-hardware-supply-chain/data), and run the notebook.
 
 ## Limitations
 Part of the data is synthetic, all sanctions are marked Active, sanction impact estimates overlap, and the company table is a sample of 22 firms.
 
 ## Author
-[Mohamed Ramadan Elmenshawy], Business Information Systems student. [[LinkedIn link](www.linkedin.com/in/mohamad-ramadanx
-
-)]
+Mohamed Ramadan Elmenshawy, Business Information Systems student.(www.linkedin.com/in/mohamad-ramadanx)
