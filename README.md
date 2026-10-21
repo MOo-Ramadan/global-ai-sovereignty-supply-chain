@@ -2,7 +2,7 @@
 
 Personal portfolio project. An Excel Data Model with five linked dashboards on how semiconductor trade, sanctions, energy use and companies connect (2015-2025), plus the Python exploration behind it. Part of the dataset is synthetic.
 
-![Cover](Images/a-Intro-Cover.png)
+![Cover](Images/a-intro-cover.png)
 
 ## Questions
 - Who leads on AI investment, trade, energy and company revenue?
